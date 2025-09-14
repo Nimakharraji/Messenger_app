@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "160229081070",
+    "project_id": "my-project-62d5b",
+    "storage_bucket": "my-project-62d5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160229081070:android:464da3f7946e0b211ad8ff",
+        "android_client_info": {
+          "package_name": "com.example.chatthing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALKKH7GJq5YdvxznqIert0TAJk1l7JrTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
